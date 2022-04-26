@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '關於', 'text': '', 'tags': '', 'url': '關於.html'}, {'title': 'W3', 'text': '16.子母件組合(零件) \n \n \n \n \n \n   \n \n \n \xa0 \n', 'tags': '', 'url': 'W3.html'}]};
+var tipuesearch = {"pages": [{'title': '關於', 'text': '\n \n', 'tags': '', 'url': '關於.html'}, {'title': 'w2', 'text': '11111 \n', 'tags': '', 'url': 'w2.html'}, {'title': 'W3', 'text': '16.子母件組合(零件) \n \n \n \n \n \n   \n \n \n \xa0 \n', 'tags': '', 'url': 'W3.html'}]};
