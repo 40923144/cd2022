@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-06-14T00:22:16+08:00</updated><entry><title>W10 Spring CD 課程</title><link href="./W10-40923144.html" rel="alternate"></link><published>2022-04-27T11:35:00+08:00</published><updated>2022-06-14T00:22:16+08:00</updated><author><name>40923144</name></author><id>tag:None,2022-04-27:./W10-40923144.html</id><content type="html">&lt;p&gt;請各組員在下列影片中加入註解說明後, 分別以 w10_block_ui、w10_nx_integ 與 w10_ssh 作為標題.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-06-14T00:34:46+08:00</updated><entry><title>W12 Spring CD 課程</title><link href="./W12-40923144.html" rel="alternate"></link><published>2022-05-11T12:37:00+08:00</published><updated>2022-06-14T00:34:46+08:00</updated><author><name>40923144</name></author><id>tag:None,2022-05-11:./W12-40923144.html</id><summary type="html">&lt;p&gt;各分組在執行 w8 任務之後, 請回答下列問題:&lt;/p&gt;
+&lt;p&gt;cd2022_uarm_nx12_imported.7z 中, 若計入重複引用的零件, 總數有多少? 請列出組成此一 uarm 機械手臂所需的 BOM 列表.
+若不計入重複引用的零件, 總數有多少? 請列出各零件名稱.
+當執行機械手臂的設計過程中, 若已知各零件所擬採用的零件材料密度, 請問此一設計中的 uarm 機械手臂的淨重量為多少? (uArm-Swift-Specifications.pdf)
+當執行機械手臂設計與製程規劃時, 若已知各零件擬採行的製造程序、取得方法與所需時間及成本, 請問此一設計中的 uarm 機械手臂, 該如何計算一定數量需求下, 需花費多少時間? 如何計算成本?&lt;/p&gt;
+&lt;p&gt;總共引用155個子零件,其中個別零件總數為58個&lt;/p&gt;
+&lt;p&gt;30%的零件採 Steel 製作,其餘的採 Aluminum 製作,總重量約 2.2205 kg&lt;/p&gt;
+&lt;p&gt;全部零件採 Aluminum 製,總重量約 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;各分組在執行 w8 任務之後, 請回答下列問題:&lt;/p&gt;
+&lt;p&gt;cd2022_uarm_nx12_imported.7z 中, 若計入重複引用的零件, 總數有多少? 請列出組成此一 uarm 機械手臂所需的 BOM 列表.
+若不計入重複引用的零件, 總數有多少? 請列出各零件名稱.
+當執行機械手臂的設計過程中, 若已知各零件所擬採用的零件材料密度, 請問此一設計中的 uarm 機械手臂的淨重量為多少? (uArm-Swift-Specifications.pdf)
+當執行機械手臂設計與製程規劃時, 若已知各零件擬採行的製造程序、取得方法與所需時間及成本, 請問此一設計中的 uarm 機械手臂, 該如何計算一定數量需求下, 需花費多少時間? 如何計算成本?&lt;/p&gt;
+&lt;p&gt;總共引用155個子零件,其中個別零件總數為58個&lt;/p&gt;
+&lt;p&gt;30%的零件採 Steel 製作,其餘的採 Aluminum 製作,總重量約 2.2205 kg&lt;/p&gt;
+&lt;p&gt;全部零件採 Aluminum 製,總重量約 1.4123 kg&lt;/p&gt;
+&lt;p&gt;全部零件採 Steel 製,總重量約 4.1062 kg&lt;/p&gt;
+&lt;p&gt;網頁網址:https://40923144.github.io/cd2022/content/W12.html&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W10 Spring CD 課程</title><link href="./W10-40923144.html" rel="alternate"></link><published>2022-04-27T11:35:00+08:00</published><updated>2022-06-14T00:22:16+08:00</updated><author><name>40923144</name></author><id>tag:None,2022-04-27:./W10-40923144.html</id><content type="html">&lt;p&gt;請各組員在下列影片中加入註解說明後, 分別以 w10_block_ui、w10_nx_integ 與 w10_ssh 作為標題.&lt;/p&gt;
 &lt;p&gt;w10_block_ui
 網頁網址:https://40923144.github.io/cd2022/content/block_ui.html&lt;/p&gt;
 &lt;p&gt;w10_nx__integ
